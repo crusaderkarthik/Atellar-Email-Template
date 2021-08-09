@@ -19,3 +19,7 @@
 <li>Images used on preview are not included.</li>
 </ul>
 
+<img src="https://github.com/crusaderkarthik/Atellar-Email-Template/blob/main/img/1.png"><br/>
+<img src="https://github.com/crusaderkarthik/Atellar-Email-Template/blob/main/img/2.png"><br/>
+<img src="https://github.com/crusaderkarthik/Atellar-Email-Template/blob/main/img/3.png"><br/>
+<img src="https://github.com/crusaderkarthik/Atellar-Email-Template/blob/main/img/3.png"><br/>
