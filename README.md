@@ -18,7 +18,4 @@
 <li>Information about device support responsive email this and this.</li>
 <li>Images used on preview are not included.</li>
 </ul>
-![image](./img/1.png)<br/>
-![image](./img/2.png)<br/>
-![image](./img/3.png)<br/>
-![image](./img/4.png)<br/>
+
